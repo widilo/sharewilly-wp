@@ -2,6 +2,8 @@
 
 # Sharewilly WP WordPress Plugin - Einfach teilen - Simple sharing
 
+# A new version is coming soon!
+
 # Install Sharewilly-WP
 
 To add our Sharewilly WP WordPress Plugin to your WordPress site you can use the built-in plugin installer:
