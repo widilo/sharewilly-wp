@@ -1,8 +1,8 @@
 ![Sharewilly Logo](https://github.com/sharewilly/sharewilly/blob/master/images/sharewilly-promotion.png)
 
-# Sharewilly WP WordPress Plugin - Simple sharing
+# DEPRECATED
 
-# A new version is coming soon!
+# Sharewilly WP WordPress Plugin - Simple sharing
 
 # Install Sharewilly-WP
 
